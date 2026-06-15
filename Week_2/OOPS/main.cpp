@@ -1,4 +1,3 @@
-// main.cpp
 #include "./music/string/Veena.h"
 #include "./music/wind/Saxophone.h"
 #include <iostream>
